@@ -1,3 +1,5 @@
+#Alura Med
+
 Este projeto foi desenvolvido como parte do desafio #7daysOfCode da Alura. Consiste em uma aplicação web construída com HTML, CSS e um pouco de JavaScript, utilizando como base as telas disponibilizadas no Figma.
 
 Visão Geral
